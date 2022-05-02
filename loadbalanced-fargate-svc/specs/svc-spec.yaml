@@ -7,6 +7,6 @@ instances:
   - name: "frontend-dev"
     environment: "Beta"
     spec:
-      desired_count: 2
+      desired_count: 3
       port: 80
       task_size: "medium"
